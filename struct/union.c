@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 union abc{
            int a;
 		   char b;
